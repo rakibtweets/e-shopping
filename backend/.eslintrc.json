@@ -13,6 +13,7 @@
     "linebreak-style": 0,
     "import/newline-after-import": 0,
     "no-console": 0,
+    "no-unused-vars": "warn",
     "indent": 0,
     "spaced-comment": 0,
     "comma-dangle": "off"
